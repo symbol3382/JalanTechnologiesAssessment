@@ -1,0 +1,6 @@
+[
+  {"minAge":  60, "cost":  300},
+  {"minAge":  18, "cost":  500},
+  {"minAge":  3, "cost":  100},
+  {"minAge":  1, "cost":  0}
+]
